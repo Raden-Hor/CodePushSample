@@ -34,7 +34,7 @@ const App = () => {
         selectedIndex={index}
         borderRadius={30}
         allowFontScaling={false}
-        values={["First", "Second"]}
+        values={["First", "Second2"]}
         onTabPress={setIndex}
       />
       <SwitchSelector
